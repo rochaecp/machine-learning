@@ -6,8 +6,3 @@
 - Aprendizado Não Supervisionado
 - Aprendizado por Reforço
 - Aprendizado Profundo
-
-## Aprendizado Supervisionado
-
-## Aprendizado Não Supervisionado
-
